@@ -1,4 +1,4 @@
-# Hi there, I'm Aasif Sajad 👋
+# Hi there, I'm Aasif Sajad 
 **Data Engineer | Data Scientist**
 
 <p align="left">
